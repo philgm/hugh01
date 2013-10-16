@@ -1,4 +1,9 @@
 
 Fichier utilisé en guise de test pour la synchronisation.
 
+Ouala.
+
+
+Nouvelle ligne.
+
 PhM
