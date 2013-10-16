@@ -1,0 +1,4 @@
+
+Fichier utilisé en guise de test pour la synchronisation.
+
+PhM
